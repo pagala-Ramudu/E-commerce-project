@@ -32,6 +32,7 @@ import org.springframework.test.context.junit.jupiter.SpringExtension;
 @ContextConfiguration(classes = {ProductService.class})
 @ExtendWith(SpringExtension.class)
 class ProductServiceDiffblueTest {
+    //writing unit tests for this service class
     @MockBean
     private CartDao cartDao;
 
