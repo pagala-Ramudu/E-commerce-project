@@ -1,0 +1,10 @@
+*.class
+.classpath
+.project
+
+.log
+
+.jar
+target/
+dist/
+.settings/
