@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Ecomm {
-	//Main class 
+	//Main class of spring boot app
     public static void main(String[] args) {
         SpringApplication.run(Ecomm.class, args);
     }
